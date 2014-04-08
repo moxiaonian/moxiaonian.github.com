@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-author: Ello
+author: Dove
 pygments: true
 paginate: 16
 url: http://moxiaonian.github.com
