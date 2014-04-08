@@ -4,9 +4,8 @@ layout: page
 comments: yes
 ---
   
-![](http://p3.zhimg.com/2e/84/2e847f550_l.jpg)  
-  
-My name is moxiaonian,I am a programmer.  
+![](http://img3.douban.com/icon/ul68247660-5.jpg)  
+  My name is moxiaonian,I am a programmer.  
   
 邮箱:  moxiaonian.cxd@gmail.com  
     
