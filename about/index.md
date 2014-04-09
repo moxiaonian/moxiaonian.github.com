@@ -4,13 +4,14 @@ layout: page
 comments: no
 ---
   
-这儿是moxiaonian的个人博客
+这儿是moxiaonian的个人博客，
 
-用来记录计算机的相关知识
+用来记录计算机相关知识，
 
 以及扯淡的生活琐事。   
-  
-####关于moxiaonian  
+
+---  
+###关于moxiaonian  
 学生党一枚  
 愤青  
 科技爱好者  
