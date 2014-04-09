@@ -4,8 +4,6 @@ layout: page
 comments: no
 ---
   
-![](http://img3.douban.com/icon/ul68247660-7.jpg)
-
 这儿是moxiaonian的个人博客
 
 用来记录计算机的相关知识
@@ -27,4 +25,4 @@ comments: no
     
 知乎:  [http://www.zhihu.com/people/mo-xiao-nian/](http://www.zhihu.com/people/mo-xiao-nian/)  
   
-github :  [https://github.com/moxiaonian](https://github.com/moxiaonian)
+GitHub :  [https://github.com/moxiaonian](https://github.com/moxiaonian)
