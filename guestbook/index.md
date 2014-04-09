@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gustbook
+title: 留言
 comments: yes
 ---
 
