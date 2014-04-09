@@ -2,6 +2,7 @@
 title: About me
 layout: page
 comments: yes
+thread: 0
 ---
   
 ![](http://img3.douban.com/icon/ul68247660-7.jpg)My name is moxiaonian,I am a programmer.  
