@@ -27,3 +27,7 @@ comments: no
 知乎:  [http://www.zhihu.com/people/mo-xiao-nian/](http://www.zhihu.com/people/mo-xiao-nian/)  
   
 GitHub :  [https://github.com/moxiaonian](https://github.com/moxiaonian)
+
+---
+
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/f78fbcd2/1.png)](http://weibo.com/u/{{ site.weibo }})
