@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: page
-comments: false
+comments: no
 ---
   
 ![](http://img3.douban.com/icon/ul68247660-7.jpg)My name is moxiaonian,I am a programmer.  
