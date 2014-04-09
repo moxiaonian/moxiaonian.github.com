@@ -8,9 +8,6 @@ comments: no
     
     
 [Startup News](http://news.dbanotes.net/)  
-   
-   
-[rusty shutter](http://lhzhang.com/)
 
 
 [vinsay](http://vinsay.com/)  
