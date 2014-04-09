@@ -3,6 +3,7 @@ permalink: /:year/:month/:title/
 url: http://moxiaonian.github.com
 author: Dove
 duoshuo: moxiaonian
+weibo: 2527566217
 pygments: true
 safe: true
 paginate: 16
