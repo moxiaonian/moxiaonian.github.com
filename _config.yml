@@ -2,7 +2,7 @@ markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://moxiaonian.github.com
 author: Dove
-duoshuo: dove
+duoshuo: moxiaonian
 pygments: true
 safe: true
 paginate: 16
