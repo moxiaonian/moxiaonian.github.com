@@ -1,2 +1,2 @@
  - This is my blog
- -- My blog is based on luca
++My blog is based on luca
