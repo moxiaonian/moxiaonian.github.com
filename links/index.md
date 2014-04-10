@@ -19,4 +19,4 @@ comments: no
 [fireyy](http://blog.fireyy.com/)
 
 
-[byvoid](www.byvoid.com)
+[byvoid](https://www.byvoid.com)
