@@ -66,7 +66,7 @@ nav a{display:block;padding:.7em 1em;color:#000000;}
 nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}*/
 
 nav{font-family:"Electrolize",sans-serif;font-size:0.8em;text-transform:uppercase;float:top;margin-top:-1.8em;height:1.6;text-align:center;}
-nav a{display:block;padding:.7em 1em;color:#000000;}
+nav a{padding:.7em 1em;color:#000000;}
 nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 
 
