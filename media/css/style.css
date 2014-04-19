@@ -41,9 +41,9 @@ blockquote p{margin:0;padding:.5em 0;}
 #container{
 	background-color:#eeeeee;
 	width:600px;
-	margin:0 auto;
-	display:block;
-	padding:0 2em;}	
+	margin:0 0 0 0;
+	display: none;
+	padding:0;}	
 .content{font-size:16px;line-height:24px;}
 .content h1{padding:.5em 0;}
 .content img{max-width:600px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
