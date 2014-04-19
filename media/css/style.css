@@ -15,7 +15,6 @@
 body{
 	/*background-image:url(http://tw.wallpaperswiki.org/wp-content/uploads/2012/11/%E6%A8%A1%E5%BC%8F%EF%BC%8C%E7%87%88%E5%85%89%EF%BC%8C%E8%83%8C%E6%99%AF%E8%99%9B%E5%8C%96%EF%BC%8C%E8%89%B2%E5%BD%A9.jpg);
 	background-repeat:repeat;*/
-	background-color:#aaa;
 	font-size:14px;word-spacing:1px;
 	margin-left:auto;
 	margin-right:auto;
@@ -44,6 +43,7 @@ blockquote p{margin:0;padding:.5em 0;}
 	margin:2em auto;
 	display: block;
 	padding:0 2em;}	
+	
 .content{font-size:16px;line-height:24px;}
 .content h1{padding:.5em 0;}
 .content img{max-width:600px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
