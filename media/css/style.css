@@ -41,8 +41,9 @@ blockquote p{margin:0;padding:.5em 0;}
 #container{
 	background-color:#eeeeee;
 	width:600px;
-	margin:0 0 0 0;
-	display: none;
+	height:2000px;
+	margin:auto;
+	display: block;
 	padding:0;}	
 .content{font-size:16px;line-height:24px;}
 .content h1{padding:.5em 0;}
