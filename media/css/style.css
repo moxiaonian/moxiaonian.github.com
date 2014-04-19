@@ -38,9 +38,8 @@ blockquote p{margin:0;padding:.5em 0;}
 	display:block;
 	padding:0 2em;}*/
 #container{
-	background-image:url(http://www.fjedu.net.cn/home/attachment/201204/24/27591_133527179836lL.jpg);
-	width:600px;
-	margin:2em auto;
+	width:80px;
+	margin:8em 0 2em auto;
 	display: block;
 	padding:0 2em;}	
 	
@@ -66,9 +65,9 @@ header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
 nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}*/
 
-nav{font-family:"Electrolize",sans-serif;font-size:0.6em;text-transform:uppercase;float:right;margin-right:-12em;width:5em;text-align:left;}
-nav a{display:block;padding:.7em 1em;color:#000000;}
-nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+nav{font-family:"Electrolize",sans-serif;font-size:0.8em;text-transform:uppercase;float:top;margin-top:2em;height:4em;text-align:right;}
+nav a{display:block;padding:.5em 1em;color:#000000;}
+nav a:hover{background-color:#550000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 
 .post{padding:.5em 0em;}
 h1{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
