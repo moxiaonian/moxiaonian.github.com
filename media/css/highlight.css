@@ -1,4 +1,15 @@
-.highlight{ overflow: auto; } 
+.dp-highlighter {
+font-family: "Consolas" , "Courier New" , Courier, mono, serif;
+font-size: 12px;
+background-color: #E7E5DC;
+width: 99%;
+overflow: auto;
+margin: 18px 0 18px 0 !important;
+padding-top: 1px;
+text-align: left;
+}
+
+.highlight  { overflow: auto; } 
 .highlight .hll { background-color: #ffffcc }
 .highlight  { background: #f8f8f8; }
 .highlight .c { color: #408080; font-style: italic } /* Comment */
@@ -61,14 +72,3 @@
 .highlight .vg { color: #19177C } /* Name.Variable.Global */
 .highlight .vi { color: #19177C } /* Name.Variable.Instance */
 .highlight .il { color: #666666 } /* Literal.Number.Integer.Long */
-
-.dp-highlighter {
-font-family: "Consolas" , "Courier New" , Courier, mono, serif;
-font-size: 12px;
-background-color: #E7E5DC;
-width: 99%;
-overflow: auto;
-margin: 18px 0 18px 0 !important;
-padding-top: 1px;
-text-align: left;
-}
