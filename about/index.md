@@ -4,12 +4,9 @@ layout: page
 comments: no
 ---
 个人感想  
-
-计算机
-
-琐事   
+计算机  
+琐事  
 ---  
-
 ####关于moxiaonian  
 ---
 自由主义者  
