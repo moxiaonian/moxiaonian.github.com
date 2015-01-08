@@ -7,14 +7,14 @@ comments: no
 
 计算机
 
-琐事。   
+琐事   
 ---  
+
 ####关于moxiaonian  
+---
 自由主义者  
 
-To pursue his life,  
-
-even if end up nothing
+追求他的生活，即使处在最黑暗的地方。
 
 ---
 
