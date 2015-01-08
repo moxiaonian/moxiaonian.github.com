@@ -3,20 +3,18 @@ title: 关于
 layout: page
 comments: no
 ---
-  
-这儿是moxiaonian的个人博客，
+个人感想  
 
-用来记录计算机相关知识，
+计算机
 
-以及扯淡生活琐事。   
-
+琐事。   
 ---  
 ####关于moxiaonian  
-学生党一枚  
-愤青  
-科技爱好者  
-90后  
-未来的攻城狮
+自由主义者  
+
+To pursue his life,  
+
+even if end up nothing
 
 ---
 
