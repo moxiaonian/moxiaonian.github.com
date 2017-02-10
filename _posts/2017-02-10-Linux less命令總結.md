@@ -1,8 +1,8 @@
 ---
-title: Linux命令總結
+title: Linux less命令總結
 categories: 計算機
 layout: post
-tags:  linux 命令
+tags:  linux命令
 ---
 
 less 命令：
@@ -113,4 +113,4 @@ ma - 使用 a 标记文本的当前位置
  bzless是打開壓縮文件的命令
  bzless命令是增强“.bz2”压缩包查看器，bzless比bzmore命令功能更加强大。另外,bz命令很強大，可以單獨搜索查看。
 
- linux命令查詢網址:http://man.linuxde.net/
+ 網址:[linux命令查詢](http://man.linuxde.net/)
